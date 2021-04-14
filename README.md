@@ -1,2 +1,2 @@
-# js-11-promisification
+# js-11-promisification.
 11 - Таймеры. Promise API
